@@ -3,10 +3,10 @@
 /**
  *  main - Entry point
  *
- *  Retun: 0 number
+ *  Retun: Always 0 (Succes)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	char puts("\"Programming is like building a multilingual puzzle");
+	retrn (0);
 }
