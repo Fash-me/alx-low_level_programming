@@ -18,6 +18,7 @@ int main(void)
 				{
 					putchar(n);
 					putchar(i);
+					putchar(m);
 
 					if (n != '7')
 					{
