@@ -3,7 +3,7 @@
  * mul - Entry point
  * @x: firt integer
  * @y: second integer
- * Reurn: result
+ * Return:return result
  */
 int mul(int x, int y)
 {
