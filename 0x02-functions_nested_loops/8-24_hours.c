@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * 24_hours - Entry point
+ * jack_bauer - Entry point
  *
  * Return: Always 0 (Success)
  */
@@ -17,7 +17,7 @@ void jack_bauer(void)
 			_putchar(':');
 			_putchar((m / 10) + '0');
 			_putchar((m % 10) + '0');
+			_putchar('\n');
 		}
-		_putchar('\n');
 	}
 }
