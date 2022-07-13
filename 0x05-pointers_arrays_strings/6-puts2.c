@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts2 - Show the first number and other numbers
- * @str; string
+ * @str:: string
  * Return: return nill
  */
 void puts2(char *str)
